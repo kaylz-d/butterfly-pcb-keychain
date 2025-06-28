@@ -12,16 +12,16 @@ The butterfly shape is based on resin shaker keychains that were somewhat popula
 - Potentiometer (1)
 
 ## Schematic
-![schematic editor](../images/schematic.png)
+![schematic editor](images/schematic.png)
 
 ## PCB
-![pcb design](../images/pcb_done_foreal.png)
+![pcb design](images/pcb_done_foreal.png)
 
 ## 3D View: Front
-![front 3d view](../images/butterfly_front.png)
+![front 3d view](images/butterfly_front.png)
 
 ## 3D View: Back
-![back 3d view](../images/butterfly_back.png)
+![back 3d view](images/butterfly_back.png)
 
 Made by `@Kaylee` on slack
 
