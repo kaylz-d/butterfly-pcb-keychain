@@ -3,6 +3,8 @@
 I'm submitting it for Solder by Hack Club.
 The butterfly shape is based on resin shaker keychains that were somewhat popular for a bit during quarantine. I followed the shape of the resin shaker mold, making a butterfly SVG vector in Figma that I put on the Edge Cuts layer, making the PCB design in KiCad. This design is 89.1418 mm x 70.5458 mm.
 
+When you push the button, the LEDs will light up. You can control the brightness of the LEDs with the potentiometer.
+
 ## Materials
 - Battery Holder (1)
 - Push Button (1)
