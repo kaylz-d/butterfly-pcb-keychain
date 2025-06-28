@@ -12,7 +12,7 @@ The butterfly shape is based on resin shaker keychains that were somewhat popula
 - Potentiometer (1)
 
 ## Schematic
-![schematic editor](images/schematic.png)
+![schematic editor](images/schematic_done_foreal.png)
 
 ## PCB
 ![pcb design](images/pcb_done_foreal.png)
