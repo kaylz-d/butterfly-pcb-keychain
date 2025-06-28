@@ -39,3 +39,5 @@ Anyways, I'm finally going to submit this! As I'm writing this, it's 5:59 AM. He
 ![completed PCB](images/pcb_done.png)
 ![completed front 3D view](images/butterfly_front.png)
 ![completed back 3D view](images/butterfly_back.png)
+
+**Time spent: 5h**
